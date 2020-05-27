@@ -1,0 +1,5 @@
+Matlab function to calculate momentum from nonlinear lifting line method by Anderson. 
+Goal is to use this as input to StarCCM+.
+
+/GS 
+
